@@ -4,7 +4,7 @@ Welcome to my Github profile. I'm Genevieve, a Marketing Analyst currently livin
 
 - 👷‍♀️ I'm currently working on Email Performance Dashboards and GA4 Event tracking & Attribution Analysis
 
-- 🌱 I'm currently learning..SQL and AMPScript for Salesforce Marketing Cloud Optimisation
+- 🌱 I'm currently building..automations in Salesforce Marketing Cloud for email personalisation and A/B testing
 
 - 💭 Ask me about..recent Dashboard and Event Tracking projects
 

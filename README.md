@@ -4,7 +4,6 @@
 📍 Based in Athens, GA | Analytics @ University of Georgia
 
 
-I help mission-driven teams turn raw data into decisions that drive action.
 
 
 
@@ -14,6 +13,7 @@ My career journey has spanned:
 - Business consulting for health tech startups  
 - Talent operations with a focus on workforce planning and international expansion  
 - Marketing analytics in higher education and beyond
+
 
 
 

@@ -6,7 +6,7 @@
 
 
 
-
+  
   My career journey has spanned:
 
 - Scientific research on infectious pathogens  

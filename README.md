@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Genevieve Antwi-Nuamah
 
-🎯 Marketing Analyst | 🎓 Biochemist | 🌍 Global Strategist  
-📍 Based in Athens, GA | Analytics @ University of Georgia  
 
 
 

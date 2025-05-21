@@ -33,7 +33,7 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 - 🔗 [SFMC Send Logging & Automations](https://github.com/GenevieveAN/sfmc-automation-examples)  
 - 🔗 [Data Cleaning for Campaign Reports](https://github.com/GenevieveAN/data-cleaning-scripts)
 
----
+
 
 📫 [LinkedIn](https://www.linkedin.com/in/genevieveantwi-nuamah) | [Email](mailto:genevieve@example.com)
 

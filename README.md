@@ -7,7 +7,7 @@
 
 
 
-My career journey has spanned:
+  My career journey has spanned:
 
 - Scientific research on infectious pathogens  
 - Business consulting for health tech startups  

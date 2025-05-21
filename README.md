@@ -40,7 +40,7 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 ## 📌 Featured Projects
 
 - 🔗 [Email Dashboard SQL & Data Prep](https://github.com/GenevieveAN/email-performance-dashboard)  
-- 🔗 [SFMC Send Logging & Automations](https://github.com/GenevieveAN/sfmc-automation-examples)  
+- 🔗 [SFMC Send Logging & Automations](https://github.com/GenevieveAN/Salesforce-Marketing-Cloud) 
 - 🔗 [Data Cleaning for Campaign Reports](https://github.com/GenevieveAN/data-cleaning-scripts)
 
 

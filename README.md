@@ -7,6 +7,7 @@
 I help mission-driven teams turn raw data into decisions that drive action.
 
 
+
 My career journey has spanned:
 
 - Scientific research on infectious pathogens  

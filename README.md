@@ -3,13 +3,10 @@
 🎯 Marketing Analyst | 🎓 Biochemist | 🌍 Global Strategist  
 📍 Based in Athens, GA | Analytics @ University of Georgia
 
----
-
 I help mission-driven teams turn raw data into decisions that drive action.
 
 With experience across **Africa, Europe, and the U.S.**, I've built my career at the intersection of analytics, marketing, and workforce strategy. Whether it's optimizing university campaigns, advising a health tech startup, or using Boolean logic to guide international hiring, I bring clarity, speed, and insight to every challenge.
 
----
 
 ## 🔍 What I Do
 

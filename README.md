@@ -22,8 +22,8 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 
 ## 🧰 Tools & Tech
 
-**SQL**, **Salesforce Marketing Cloud**, **Tableau**, **Qlik**,  **LookerStudio**
-**GA4**, **Google Tag Manager**, **Hootsuite Analytics**, **LinkedIn Talent Insights**
+**SQL**, **Salesforce Marketing Cloud**, **Tableau**, **Qlik**,  **LookerStudio**,
+**Google Analytics 4**, **Google Tag Manager**, **Hootsuite Analytics**, **Boolean Search**, **Social Listening**, **LinkedIn Talent Insights**
 
 
 

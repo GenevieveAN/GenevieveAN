@@ -7,6 +7,15 @@
 I help mission-driven teams turn raw data into decisions that drive action.
 
 
+My career journey has spanned:
+
+- Scientific research on infectious pathogens  
+- Business consulting for health tech startups  
+- Talent operations with a focus on workforce planning and international expansion  
+- Marketing analytics in higher education and beyond
+
+
+
 With experience across **Africa, Europe, and the U.S.**, I've built my career at the intersection of analytics, marketing, and workforce strategy. Whether it's optimizing university campaigns, advising a health tech startup, or using Boolean logic to guide international hiring, I bring clarity, speed, and insight to every challenge.
 
 

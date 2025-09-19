@@ -7,7 +7,7 @@
   
   My career journey has spanned:
 
-- Scientific research on infectious pathogens  
+- Scientific research on infectious pathogens
 - Business consulting for health tech startups  
 - Talent operations with a focus on workforce planning and international expansion  
 - Marketing analytics in higher education and beyond

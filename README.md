@@ -47,7 +47,7 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/genevieveantwi-nuamah) | [Email](mailto:genevievenuamah@yahoo.com)
+📫 [LinkedIn](https://www.linkedin.com/in/genevieveantwi-nuamah) | [Email](mailto:genevievenuamah@yahoo.com) | [Portfolio](https://lovable.dev/projects/7f9888ec-e6e3-431f-a3f4-dfa5097c9438)
 
 > “I tell stories with data—bridging the gap between strategy and execution across industries, platforms, and continents.”
 

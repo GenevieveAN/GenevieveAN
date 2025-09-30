@@ -33,6 +33,11 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 **SQL**, **Salesforce Marketing Cloud**, **Tableau**, **Qlik**,  **LookerStudio**, **Excel**,
 **Google Analytics 4**,**BigQuery**, **Google Tag Manager**, **Hootsuite Analytics**, **Boolean Search**, **Social Listening**, **LinkedIn Talent Insights**
 
+## 🏆 Certifications
+
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-Certified-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Salesforce Marketing Cloud](https://img.shields.io/badge/Salesforce%20Marketing%20Cloud-Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Professional%20Diploma-FF6B6B?style=for-the-badge)
 
 
 ## 📌 Featured Projects

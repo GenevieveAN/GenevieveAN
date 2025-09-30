@@ -51,3 +51,8 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 
 > “I tell stories with data—bridging the gap between strategy and execution across industries, platforms, and continents.”
 
+## 📈 GitHub Activity
+
+![Genevieve's GitHub stats](https://github-readme-stats.vercel.app/api?username=GenevieveAN&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenevieveAN&layout=compact&theme=radical)

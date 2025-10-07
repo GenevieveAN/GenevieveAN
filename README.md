@@ -30,8 +30,8 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 
 ## 🧰 Tools & Tech
 
-**SQL**, **Salesforce Marketing Cloud**, **Tableau**, **Qlik**,  **LookerStudio**, **Excel**,
-**Google Analytics 4**,**BigQuery**, **Google Tag Manager**, **Hootsuite Analytics**, **Boolean Search**, **Social Listening**, **LinkedIn Talent Insights**
+**SQL**, **Salesforce Marketing Cloud**, **Tableau**, **Qlik**, **PowerBI**,  **LookerStudio**, **Excel**,
+**Google Analytics 4**,**BigQuery**, **Google Tag Manager**, **Hootsuite Analytics**, **Boolean Search**, **Social Listening**, **Sentiment Analysis**, **LinkedIn Talent Insights**
 
 ## 🏆 Certifications
 
@@ -56,8 +56,3 @@ With experience across **Africa, Europe, and the U.S.**, I've built my career at
 
 > “I tell stories with data—bridging the gap between strategy and execution across industries, platforms, and continents.”
 
-## 📈 GitHub Activity
-
-![Genevieve's GitHub stats](https://github-readme-stats.vercel.app/api?username=GenevieveAN&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenevieveAN&layout=compact&theme=radical)
